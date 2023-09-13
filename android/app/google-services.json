@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261889285594",
+    "project_id": "agora-call-app",
+    "storage_bucket": "agora-call-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261889285594:android:a7478ba8f62ee940c974e3",
+        "android_client_info": {
+          "package_name": "com.codeconline.agora_calling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmdvVJ4Qu5-JJPtnjFMPKRaGW1nh3Iy5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
